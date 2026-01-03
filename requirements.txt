@@ -1,0 +1,20 @@
+﻿
+flask                   # Chạy web server
+google-generativeai     # Trí tuệ nhân tạo Gemini
+pillow                  # Xử lý ảnh
+python-magic-bin        # Nhận diện đuôi file thật (Cho Windows)
+
+
+requests                # Gửi request kiểm tra server sống/chết
+beautifulsoup4          # Đọc mã nguồn HTML để tìm form đăng nhập, link ẩn
+dnspython               # Kiểm tra DNS, tìm IP thật của web
+whois                   # Tra cứu thông tin chủ sở hữu tên miền
+
+
+pefile                  # Phân tích file .EXE chuyên sâu (Tìm API nguy hiểm)
+oletools                # Phân tích virus trong file Word/Excel (.doc, .xls)
+pypdf                   # Quét mã độc trong file PDF
+
+
+flask-limiter           # Chống Spam/DDoS vào web
+flask-talisman          # Thêm các header bảo mật (HTTPS, HSTS)
